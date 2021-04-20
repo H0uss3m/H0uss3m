@@ -19,7 +19,16 @@
 
 🧰 Toolbox
 
-<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="35" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original-wordmark.svg" alt="Gatsby Logo" width="50" height="50"/>
+
+
+
+
+
+
 
 ---
 
