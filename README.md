@@ -6,11 +6,11 @@
 
 ---
 
-♦️    A Front End Developer specializing in Javascript technologies. Professional experience with the technologies listed in the <b>toolbox</b> below.
+♦️    A Front End Developer specializing in Javascript technologies. Professional experience with the technologies listed in the **toolbox** below.
 
 ♦️    I create tech content. mostly about Development and Javascript, but I also talk about other topics than codinug. I'd advise you to subscribe to stay up-to-date!
 
-♦️    I manged to create an online presence with my Blog and Twitch channel. Looking forward to reaching and helping more people and sharing my knowledge.
+♦️    I manged to create an online presence with my [Instagram](https://www.instagram.com/husamdev) account and [Twitch](https://www.twitch.tv/husamdev) channel. Looking forward to reaching and helping more people and sharing my knowledge.
 
 ♦️    I am available for freelance work and collaborations for business you can contact me at benmustapha.business@gmail.com
 <!--
