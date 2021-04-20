@@ -10,7 +10,7 @@
 
 ♦️    I create tech content. mostly about Development and Javascript, but I also talk about other topics than codinug. I'd advise you to subscribe to stay up-to-date!
 
-♦️    I manged to create an online presence with my Blog and Twitch channel. Looking forward to reaching and helping more people ny sharing my knowledge.
+♦️    I manged to create an online presence with my Blog and Twitch channel. Looking forward to reaching and helping more people and sharing my knowledge.
 
 ♦️    I am available for freelance work and collaborations for business you can contact me at benmustapha.business@gmail.com
 <!--
