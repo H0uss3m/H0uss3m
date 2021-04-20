@@ -15,9 +15,8 @@
 ♦️    I am available for freelance work and collaborations for business you can contact me at benmustapha.business@gmail.com
 
 ---
----
 
-🧰 Toolbox
+## 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo" width="50" height="50"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="React Logo" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular Logo" width="50" height="50"/><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux Logo" width="50" height="50"/>
@@ -27,6 +26,7 @@
 
 ---
 
+## &#x1f4c8; My Toolbox GitHub Stats
 <!--
 **H0uss3m/H0uss3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
