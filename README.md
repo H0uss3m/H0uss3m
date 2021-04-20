@@ -3,6 +3,16 @@
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mr_BenMustapha?label=Follow%20me%20on%20twitter%20%40%20Mr_BenMustapha&style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/husamdev?label=Follow%20me%20on%20twitch%20%20%40husamdev&style=social)
+
+---
+
+♦️    A Front End Developer specializing in Javascript technologies. Professional experience with the technologies listed in the toolbox below.
+
+♦️    I create tech content. mostly about Development and Javascript, but I also talk about other topics than codinug. I'd advise you to subscribe to stay up-to-date!
+
+♦️    I manged to create an online presence with my Blog and Twitch channel. Looking forward to reaching and helping more people ny sharing my knowledge.
+
+♦️    I am available for freelance work and collaborations for business you can contact me at benmustapha.business@gmail.com
 <!--
 **H0uss3m/H0uss3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
