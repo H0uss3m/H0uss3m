@@ -1,12 +1,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Houssem BEN MUSTAPHA
 
 ---
+<h3>My Social Media Accounts : </h3>
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mr_BenMustapha?label=Follow%20me%20on%20twitter%20%40%20Mr_BenMustapha&style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/husamdev?label=Follow%20me%20on%20twitch%20%20%40husamdev&style=social)
 
 ---
 
-♦️    A Front End Developer specializing in Javascript technologies. Professional experience with the technologies listed in the toolbox below.
+♦️    A Front End Developer specializing in Javascript technologies. Professional experience with the technologies listed in the <b>toolbox</b> below.
 
 ♦️    I create tech content. mostly about Development and Javascript, but I also talk about other topics than codinug. I'd advise you to subscribe to stay up-to-date!
 
