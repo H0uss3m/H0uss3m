@@ -1,5 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Houssem 
-
+---
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=H0uss3m)  
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mr_BenMustapha?label=Follow%20me%20on%20twitter%20%40%20Mr_BenMustapha&style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/husamdev?label=Follow%20me%20on%20twitch%20%20%40husamdev&style=social)
@@ -33,9 +34,7 @@
 
 ---
 
-## &#x1f4c8; My GitHub Stats[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/H0uss3m)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## &#x1f4c8; My GitHub Stats: 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=H0uss3m)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -47,7 +46,6 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/H0uss3m)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=H0uss3m)  
 
 ![Profile views](https://gpvc.arturio.dev/H0uss3m)  
 <!--
