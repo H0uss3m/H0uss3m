@@ -1,9 +1,14 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Houssem BEN MUSTAPHA
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Houssem 
 
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mr_BenMustapha?label=Follow%20me%20on%20twitter%20%40%20Mr_BenMustapha&style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/husamdev?label=Follow%20me%20on%20twitch%20%20%40husamdev&style=social)
 
+---
+🔭 I’m currently working on my personel project 
+🌱 I’m currently learning NextJs and Tailwind CSS 
+📫 How to reach me: benmustapha.business@gmail.com 
+⚡ Fun fact: I am a Physcist who turn up to be a web Developer 
 ---
 
 ♦️    A Front End Developer specializing in Javascript technologies. Professional experience with the technologies listed in the **toolbox** below.
@@ -11,8 +16,6 @@
 ♦️    I create tech content. mostly about Development and Javascript, but I also talk about other topics than codinug. I'd advise you to subscribe to stay up-to-date!
 
 ♦️    I manged to create an online presence with my [Instagram](https://www.instagram.com/husamdev) account and [Twitch](https://www.twitch.tv/husamdev) channel. Looking forward to reaching and helping more people and sharing my knowledge.
-
-♦️    I am available for freelance work and collaborations for business you can contact me at benmustapha.business@gmail.com
 
 ---
 
