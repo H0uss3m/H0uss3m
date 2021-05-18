@@ -1,9 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Houssem 
 ---
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=H0uss3m)  
+![GitHub metrics](https://metrics.lecoq.io/H0uss3m)  
 ---
 ![Twitter Follow](https://img.shields.io/twitter/follow/Mr_BenMustapha?label=Follow%20me%20on%20twitter%20%40%20Mr_BenMustapha&style=social)
 ![Twitch Status](https://img.shields.io/twitch/status/husamdev?label=Follow%20me%20on%20twitch%20%20%40husamdev&style=social)
+![Profile views](https://gpvc.arturio.dev/H0uss3m)  
 
 ---
 🔭 I’m currently working on my personel project
@@ -40,14 +41,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H0uss3m)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=H0uss3m&show_icons=true&count_private=true)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=H0uss3m) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=H0uss3m&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=H0uss3m)  
 
-![GitHub metrics](https://metrics.lecoq.io/H0uss3m)  
 
 
-![Profile views](https://gpvc.arturio.dev/H0uss3m)  
 <!--
 **H0uss3m/H0uss3m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
