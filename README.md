@@ -5,10 +5,14 @@
 ![Twitch Status](https://img.shields.io/twitch/status/husamdev?label=Follow%20me%20on%20twitch%20%20%40husamdev&style=social)
 
 ---
-🔭 I’m currently working on my personel project 
+🔭 I’m currently working on my personel project
+
 🌱 I’m currently learning NextJs and Tailwind CSS 
+
 📫 How to reach me: benmustapha.business@gmail.com 
+
 ⚡ Fun fact: I am a Physcist who turn up to be a web Developer 
+
 ---
 
 ♦️    A Front End Developer specializing in Javascript technologies. Professional experience with the technologies listed in the **toolbox** below.
