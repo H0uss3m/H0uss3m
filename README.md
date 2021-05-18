@@ -36,12 +36,11 @@
 ---
 
 ## &#x1f4c8; My GitHub Stats: 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=H0uss3m)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=H0uss3m)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H0uss3m)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=H0uss3m) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=H0uss3m&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=H0uss3m)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=H0uss3m&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=H0uss3m)  
 
